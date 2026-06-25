@@ -2,3 +2,9 @@ ipykernel
 numpy
 scikit-learn
 python-dotenv
+tensorflow
+pandas
+matplotlib 
+seaborn
+jupyter
+matplotlib
