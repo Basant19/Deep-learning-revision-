@@ -179,3 +179,4 @@ best_model.keras
 best_mnist_model.keras
 best_rnn.keras
 best_lstm.keras
+best_gru.keras
