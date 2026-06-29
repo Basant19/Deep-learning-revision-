@@ -180,3 +180,5 @@ best_mnist_model.keras
 best_rnn.keras
 best_lstm.keras
 best_gru.keras
+baseline_best_model.keras
+tuned_best_model.keras
